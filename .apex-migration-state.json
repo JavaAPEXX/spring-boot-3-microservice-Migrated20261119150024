@@ -1,0 +1,7 @@
+{
+  "job_id": "job_71669dea3ce8",
+  "sourceRepoUrl": "https://github.com/deepaksorthiya/spring-boot-3-microservice",
+  "targetJavaVersion": "21.0.12.1",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
